@@ -1,0 +1,5 @@
+1,Car,OverSpeeding,Junaid,5,1,5000.0
+2,Car,Signal Breaking,Ubaid,2,2,3000.0
+3,Bike,No Helmet,John,8,3,500.0
+4,Bike,No License,Sam,4,6,2000.0
+5,Car,OverSpeeding,Virat Kohli,3,3,4000.0
