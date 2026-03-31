@@ -1,47 +1,54 @@
 # 🚦 Traffic Management System
 
-A Data Structures-based Traffic Management System developed as part of a
-hackathon project. This system simulates real-world traffic operations
-using core DSA concepts without Java Collection Framework.
+![Java](https://img.shields.io/badge/Language-Java-blue)
+![DSA](https://img.shields.io/badge/Concept-Data%20Structures-green)
+![Status](https://img.shields.io/badge/Project-Complete-brightgreen)
 
-## 🧠 Project Overview
+------------------------------------------------------------------------
 
--   Vehicle registration
--   Violation tracking
--   Priority-based processing
--   Undo operations
--   Fast data retrieval
--   Persistent storage using file handling
+## 🧠 Overview
+
+A hackathon project demonstrating a **Traffic Management System** using
+core Data Structures without Java Collections.
+
+------------------------------------------------------------------------
 
 ## ⚙️ Features
 
--   Linked List for storage
--   Linear + Binary Search
--   Bubble, Insertion, Quick Sort
--   Queue + Circular Queue
--   Heap (Priority Queue)
--   Stack (Undo)
--   Hash Table (Chaining)
--   File Handling (Save + Load)
+-   📦 Linked List (Dynamic Storage)
+-   🔍 Linear & Binary Search
+-   🔄 Bubble, Insertion, Quick Sort
+-   🚗 Queue & Circular Queue
+-   🚨 Priority Queue (Heap)
+-   🔙 Stack (Undo)
+-   ⚡ Hash Table (Chaining)
+-   💾 File Handling (Save & Load)
 
-## ▶️ How to Run
+------------------------------------------------------------------------
 
-Compile: javac \*.java
+## ▶️ Run the Project
 
-Run: java Main
+``` bash
+javac *.java
+java Main
+```
 
-## 📁 Project Structure
-Traffic-Management-System/
-│── Main.java
-│── LL.java
-│── VehicleNode.java
-│── Queue.java
-│── Heap.java
-│── Stack.java
-│── HashTable.java
-│── FileHandler.java
+------------------------------------------------------------------------
 
-## 👨‍💻 Team Members
+## 📁 Structure
+
+    Main.java
+    LL.java
+    VehicleNode.java
+    Queue.java
+    Heap.java
+    Stack.java
+    HashTable.java
+    FileHandler.java
+
+------------------------------------------------------------------------
+
+## 👨‍💻 Team
 
 -   Junaid Baig
 -   Gayathri
@@ -49,6 +56,9 @@ Traffic-Management-System/
 -   Koushik
 -   Varsha
 
-## 🏁 Conclusion
+------------------------------------------------------------------------
 
-This project demonstrates integration of multiple data structures in a real-world system.
+## 🏁 Final Note
+
+This project integrates multiple data structures into a single working
+system.
